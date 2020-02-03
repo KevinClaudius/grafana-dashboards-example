@@ -1,0 +1,1 @@
+Sample dashboards for testing Grafana dashboard loading tools.
